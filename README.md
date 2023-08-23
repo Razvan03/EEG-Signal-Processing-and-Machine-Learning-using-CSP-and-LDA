@@ -17,3 +17,5 @@
 ![17](https://github.com/Razvan03/EEG-Signal-Processing-and-Machine-Learning-using-CSP-and-LDA/assets/27735041/e8b2b637-2058-497e-a067-e5307698bc3a)
 ![18](https://github.com/Razvan03/EEG-Signal-Processing-and-Machine-Learning-using-CSP-and-LDA/assets/27735041/150edc18-e059-497c-b117-072e63077f1d)
 ![20](https://github.com/Razvan03/EEG-Signal-Processing-and-Machine-Learning-using-CSP-and-LDA/assets/27735041/02f1d54c-dce0-468c-a68e-52ff846a6853)
+
+### Mai multe informatii pot fi gasite [aici](https://github.com/Razvan03/EEG-Signal-Processing-and-Machine-Learning-using-CSP-and-LDA/blob/main/Documentatie%20Roman%20Razvan%20P14.pdf).
