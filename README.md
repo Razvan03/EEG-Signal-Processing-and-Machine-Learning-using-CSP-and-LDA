@@ -1,7 +1,10 @@
 # EEG-Signal-Processing-and-Machine-Learning-using-CSP-and-LDA
 ![1](https://github.com/Razvan03/EEG-Signal-Processing-and-Machine-Learning-using-CSP-and-LDA/assets/27735041/49f96bc8-322a-4609-9b49-681a390adf82)
+
 ## Contributia Personala
+
 Începând cu un model de bază adaptat pentru o singură persoană oferit de [mne.tools](https://mne.tools/stable/auto_examples/decoding/decoding_csp_eeg.html), am extins și optimizat codul pentru a procesa și clasifica datele EEG de la 109 subiecți. Selectarea subiecților s-a bazat pe un criteriu de performanță, reținând doar acei indivizi pentru care algoritmul atinge o valoare medie a performanței mai mare de 0,70 după prima secundă, garantând astfel fiabilitatea și stabilitatea rezultatelor.
+
 ![2](https://github.com/Razvan03/EEG-Signal-Processing-and-Machine-Learning-using-CSP-and-LDA/assets/27735041/90e18cf7-a6c2-4d07-96b0-694a1fe5a674)
 ![3](https://github.com/Razvan03/EEG-Signal-Processing-and-Machine-Learning-using-CSP-and-LDA/assets/27735041/d94c660e-e65d-421f-96f9-ea3490c38be9)
 ![4](https://github.com/Razvan03/EEG-Signal-Processing-and-Machine-Learning-using-CSP-and-LDA/assets/27735041/3086a342-a471-4678-8e92-9abbae15cd7a)
